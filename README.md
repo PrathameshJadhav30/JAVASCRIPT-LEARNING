@@ -53,3 +53,11 @@ JavaScript is a versatile and powerful programming language that is essential fo
 
 - try, catch, finally
 - Custom errors
+  ## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
+
+- **Email**: prathameshaj2004@gmail.com
+- **LinkedIn**: www.linkedin.com/in/prathamesh-jadhav30
+- Thank you for visiting my repository. Happy coding!
+
